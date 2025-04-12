@@ -1,3 +1,11 @@
-# VaR-stress-testing
-This code written in Jupyter Notebook analyzes Value at Risk using historical and Monte carlo method applied to a portfolio of three stocks with different weights. 
-Also, it includes a stress test based on volatility of the portfolio.
+# VaR Estimation and Backtesting
+VaR estimation using following methods --
+1. Historical method
+2. Parametric method (Normal distribution)
+3. EWMA method
+
+VaR Backtesting methods:
+1. Kupiec test
+2. Binomial test
+3. Traffic Light method
+4. TUFF test
